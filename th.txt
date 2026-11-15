@@ -1,0 +1,13 @@
+CSS --> Cascading style sheet
+
+Css --> Hakon wium lie --> 1996
+
+
+Why use css?
+- To create a attractive website or webpages. to provide style of html static page.
+
+
+There are three ways to define css.
+1. external css [.css]
+2. internal css -- <style></style>
+3. inline css - same line
